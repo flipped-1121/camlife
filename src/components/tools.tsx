@@ -1,7 +1,7 @@
 'use client'
 
 import clsx from 'clsx'
-import { Map as MapIcon } from 'lucide-react'
+import { Github, Map as MapIcon } from 'lucide-react'
 import Link from 'next/link'
 import { useEffect, useRef, useState } from 'react'
 import { LanguageSwitch } from '~/components/language-toggle'
@@ -57,6 +57,13 @@ export function Tools() {
             />
           </Link>
           <LanguageSwitch />
+          <Link href='https://github.com/suno225SUN/camlife'>
+            <Github
+              size={22}
+              strokeWidth={2.25}
+              absoluteStrokeWidth
+            />
+          </Link>
           <ThemeToggle />
         </div>
       </div>
