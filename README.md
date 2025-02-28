@@ -68,8 +68,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sun0225SUN/camlife&type=Date)](github.com/sun0225SUN/camlife)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=sun0225SUN/camlife&type=Date)](https://github.com/sun0225SUN/camlife)
 
 
 ## License
